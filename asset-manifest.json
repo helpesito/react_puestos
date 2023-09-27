@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_puestos/static/css/main.91baa367.css",
+    "main.js": "/react_puestos/static/js/main.8f9fadef.js",
+    "static/js/787.b790015c.chunk.js": "/react_puestos/static/js/787.b790015c.chunk.js",
+    "index.html": "/react_puestos/index.html",
+    "main.91baa367.css.map": "/react_puestos/static/css/main.91baa367.css.map",
+    "main.8f9fadef.js.map": "/react_puestos/static/js/main.8f9fadef.js.map",
+    "787.b790015c.chunk.js.map": "/react_puestos/static/js/787.b790015c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91baa367.css",
+    "static/js/main.8f9fadef.js"
+  ]
+}
