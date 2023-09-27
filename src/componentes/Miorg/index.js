@@ -1,4 +1,5 @@
 import "./Miorg.css"
+import add from '../../img/add.png'
 
 const Miorg = (props) => {
     // Estado - hook
@@ -13,7 +14,7 @@ const Miorg = (props) => {
 
     return <section className="orgSection">
         <h3 className="title">Mi Organizacion</h3>
-        <img src="/img/add.png" alt="add" onClick={props.cambiarMostra}/>
+        <img src={add} alt="add" onClick={props.cambiarMostra}/>
     </section>
 }
 
